@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457023541080",
+    "project_id": "uasmediasosial",
+    "storage_bucket": "uasmediasosial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457023541080:android:d444eac37ec306819e9f2d",
+        "android_client_info": {
+          "package_name": "app.uas.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxFaBvv7z_ULbtTTOUb7gShnPEATYvizY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
